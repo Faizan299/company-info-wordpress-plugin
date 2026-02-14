@@ -3,7 +3,7 @@
 Plugin Name: Company Info Shortcode
 Description: Displays company name, address, and contact using a shortcode with admin settings.
 Version: 1.0
-Author: Faizan
+Author: Faizan Yaseen.
 */
 
 function show_company_info() {
